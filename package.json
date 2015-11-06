@@ -1,0 +1,16 @@
+{
+  "name": "flickerfp",
+  "version": "1.0.0",
+  "description": "Test Flickr program for Function Programming",
+  "main": "flickr.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-eslint": "^4.1.4",
+    "eslint": "^1.8.0",
+    "eslint-plugin-react": "^3.7.1"
+  }
+}
